@@ -1,0 +1,27 @@
+.videobg {
+  position: fixed;
+  z-index: -99;
+  width: 2%;
+  height: 2%;
+}
+
+iframe {  
+  object-fit: cover;
+  height: 1%;
+  width: 1%;
+}
+body {
+  background-color: black;
+}
+h1 {
+  fon-size:25px;
+  color: coral;
+  font-family: 'Great Vibes', cursive;
+  text-align: center;
+}
+p{
+  color: white;
+  font-family: 'Shadows Into Light', cursive;
+
+  text-align: center;
+}
